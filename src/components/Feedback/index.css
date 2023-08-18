@@ -1,0 +1,20 @@
+.emoji-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.img-decor {
+  height: 90px;
+  width: 90px;
+  padding: 7px;
+}
+.btn-decor {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+li {
+  list-style-type: none;
+}
